@@ -1,7 +1,5 @@
 # Stellar Blue
 
-![Stellar Blue Logo](https://raw.githubusercontent.com/Czar-16/Stellar-Blue/master/logo/steller-logo.jpg)
-
 A cool dark professional color theme for VS Code.
 
 ## Preview
