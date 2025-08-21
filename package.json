@@ -10,6 +10,11 @@
   "categories": [
     "Themes"
   ],
+  "icon": "steller-logo-final.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
