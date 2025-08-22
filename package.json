@@ -2,10 +2,10 @@
   "name": "stellar-blue",
   "displayName": "Stellar Blue",
   "description": "A cool dark professional color theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "AnoopJha",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.102.0"
   },
   "categories": [
     "Themes"
